@@ -1,0 +1,48 @@
+1) 
+Come primo esempio ho scelto il dataset GRANO :
+https://archive.ics.uci.edu/ml/datasets/seeds
+Gli attributi sono 7 :
+-area
+-perimetro
+-compattezza
+-lunghezza del chicco
+-larghezza del chicco
+-coefficiente di asimmetria
+-lunghezza della scalanatura del chicco
+Gli identificativi sono :
+-kama
+-rosa
+-canadian
+2)
+Ho scelto il dataset CLASSIFICAZIONE TAGLIO CESAREO :
+https://archive.ics.uci.edu/ml/datasets/Caesarian+Section+Classification+Dataset
+Gli attributi sono :
+-età
+-numero di nascita
+-tempo di nascita
+-pressione sanguigna
+-stato del cuore
+Gli identificativi sono :
+-nascita prematura
+-nascita tempestiva
+-nascita ritardataria
+3)
+ho scelto il dataset stelle :
+https://it.wikipedia.org/wiki/Classificazione_stellare#La_classificazione_di_Secchi
+Gli attributi sono :
+-temperatura superficiale
+-emissione luminosa
+-ionizzazione fotosfera
+-colore apparente
+-colore assoluto
+Gli identificativi sono :
+-O 
+-B 
+-A 
+-F 
+-G
+-K
+-M 
+Per quanto riguarda invece i dataset non strutturati ho scelto di parlare per esempio di un estratto della "Divina Commedia" o comunque di testi prettamente narrativi dove non è possibile individuare una struttura ben precisa e non esiste alcun tipo di schema. Cercherei di analizzare un testo narrativo inquadrandolo prima in un formato semi strutturato,cercando poi di trasformarlo in un dataset strutturato per poi interrogarlo attraverso delle query per capire di cosa tratta e se ne posso ricavare informazioni importanti per lo studio di un epoca o di una condizione socio-politica da associare ai nostri tempi. Un altro esempio di dataset non strutturati sul quale eseguire lo stesso tipo di lavoro cercando di memorizzare i dati in una enciclopedia virtuale sono i dati macchina, che includono file di registro da siti web e applicazioni.L'analisi di queste informazioni mi permetterebbe di ricavare nozioni circa le preferenze degli utenti e ciò sarebbe utile per esempio in ottica economica.Altro esempio potrebbe essere la registrazione di una partita di calcio, dalla quale si possono estrapolare molteplici informazioni grazie alle quali prevedere un risultato sportivo o l 'atteggiamento di una squadra grazie al machine learning e all'intelligenza artificiale.
+
+
